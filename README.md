@@ -8,7 +8,7 @@
 
 ## 命令
 ```vim
-:cincg InsertCIncludeGuard()
+:CIncGuard InsertCIncludeGuard()
 ```
 
 ## 安装

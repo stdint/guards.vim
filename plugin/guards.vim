@@ -36,5 +36,5 @@ function! InsertExternCGuard()
     exec "normal o".s:IncludeGuard_Tag_cpp_close
 endfunc
 
-command! cincg call InsertCIncludeGuard()
+command! CIncGuard call InsertCIncludeGuard()
 
